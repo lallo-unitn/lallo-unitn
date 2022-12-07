@@ -33,3 +33,5 @@ Bachelor of Science in Computer Science. Got my degree with a final dissertation
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+![Riccardo Gennaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lallo-unitn&show_icons=true&theme=dark)
