@@ -22,7 +22,7 @@ I also have an online [portfolio](https://lallo-unitn.github.io/Riccardo-Gennaro
 ## Database
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Derby](https://img.shields.io/badge/-Derby-grey?style=for-the-badge&logo=apache)
+![Derby](https://img.shields.io/badge/APACHE-Derby-blue?style=for-the-badge&logo=apache)
 
 ## Web Services
 
