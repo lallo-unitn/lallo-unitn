@@ -24,6 +24,10 @@ I also have an online [portfolio](https://lallo-unitn.github.io/Riccardo-Gennaro
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Derby](https://img.shields.io/badge/-Derby-grey?style=for-the-badge&logo=apache)
 
+## Web Services
+
+![Apache Tomcat](https://img.shields.io/badge/APACHE-Tomcat-red?style=for-the-badge&logo=apache)
+
 ## Other passions
 
 ![RetroGaming](https://img.shields.io/badge/RETRO%20GAMING-GEN%205--6-blue?style=for-the-badge&logo=playstation2)
