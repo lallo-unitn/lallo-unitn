@@ -28,6 +28,7 @@ I also have an online [portfolio](https://lallo-unitn.github.io/Riccardo-Gennaro
 ## Web Services
 
 ![Apache Tomcat](https://img.shields.io/badge/APACHE-Tomcat-red?style=for-the-badge&logo=apache)
+![WildFly](https://img.shields.io/badge/Red%20Hat-WilfFly-red?style=for-the-badge&logo=redHat)
 
 ## Other passions
 
