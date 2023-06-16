@@ -12,6 +12,7 @@ I also have an online [portfolio](https://lallo-unitn.github.io/Riccardo-Gennaro
 ## OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-UBUNTU-grey?style=for-the-badge&logo=ubuntu)
+![Arch Linux](https://img.shields.io/badge/-ARCH%20LINUX-black?style=for-the-badge&logo=archlinux)
 
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
