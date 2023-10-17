@@ -2,8 +2,6 @@
 I'm currently enrolled in a Cybersecurity master course in [UniTN](https://www.unitn.it/en).  
 Bachelor of Science in Computer Science. Got my degree with a final dissertation on Industrial Control System security measures.
 
-I also have an online [portfolio](https://lallo-unitn.github.io/Riccardo-Gennaro/) (that still needs some fixes for the mobile view).
-
 ## Contacts  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-gennaro/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lallo_unitn)
