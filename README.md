@@ -8,9 +8,9 @@ Bachelor of Science in Computer Science. Got my degree with a final dissertation
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:riccardo.gennarox@outlook.com)
 
 ## OS
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-UBUNTU-grey?style=for-the-badge&logo=ubuntu)
 ![Arch Linux](https://img.shields.io/badge/-ARCH%20LINUX-black?style=for-the-badge&logo=archlinux)
+![Ubuntu](https://img.shields.io/badge/-UBUNTU-grey?style=for-the-badge&logo=ubuntu)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
