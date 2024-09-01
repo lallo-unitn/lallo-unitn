@@ -1,5 +1,5 @@
 ## Bio
-I'm currently enrolled in a Cybersecurity master course in [UniTN](https://www.unitn.it/en).  
+I'm currently enrolled in a Cybersecurity master course in [UniTN](https://www.unitn.it/en) and [UT](https://www.utwente.nl/en/).  
 Bachelor of Science in Computer Science. Got my degree with a final dissertation on Industrial Control System security measures.
 
 ## Contacts  
