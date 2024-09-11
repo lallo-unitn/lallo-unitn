@@ -33,7 +33,6 @@ Bachelor of Science in Computer Science. Got my degree with a final dissertation
 
 ![RetroGaming](https://img.shields.io/badge/RETRO%20GAMING-GEN%205--6-blue?style=for-the-badge&logo=playstation2)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 
 ## Social
 
