@@ -1,6 +1,5 @@
 ## Bio
-I'm currently enrolled in a Cybersecurity master course in [UniTN](https://www.unitn.it/en) and [UT](https://www.utwente.nl/en/).  
-Bachelor of Science in Computer Science. Got my degree with a final dissertation on Industrial Control System security measures.
+I'm a student enrolled in a Cybersecurity master course at [UniTN](https://www.unitn.it/en) and [UT](https://www.utwente.nl/en/).  
 
 ## Contacts  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-gennaro/)
