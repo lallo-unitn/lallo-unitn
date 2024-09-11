@@ -20,7 +20,7 @@ Bachelor of Science in Computer Science. Got my degree with a final dissertation
 
 ## Database
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mariadb-%2300f.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Derby](https://img.shields.io/badge/APACHE-Derby-blue?style=for-the-badge&logo=apache)
 ![H2](https://img.shields.io/badge/Eclipse-H2-blue?style=for-the-badge&logo=eclipse)
 
