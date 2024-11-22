@@ -8,6 +8,7 @@ I'm a student enrolled in a Cybersecurity master course at [UniTN](https://www.u
 
 ## OS
 ![Arch Linux](https://img.shields.io/badge/-ARCH%20LINUX-black?style=for-the-badge&logo=archlinux)
+![Debian](https://img.shields.io/badge/-Debian-red?style=for-the-badge&logo=debian)
 ![Ubuntu](https://img.shields.io/badge/-UBUNTU-grey?style=for-the-badge&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -28,11 +29,6 @@ I'm a student enrolled in a Cybersecurity master course at [UniTN](https://www.u
 
 ![Apache Tomcat](https://img.shields.io/badge/APACHE-Tomcat-red?style=for-the-badge&logo=apache)
 ![WildFly](https://img.shields.io/badge/Red%20Hat-WildFly-red?style=for-the-badge&logo=redHat)
-
-## Other passions
-
-![RetroGaming](https://img.shields.io/badge/RETRO%20GAMING-GEN%205--6-blue?style=for-the-badge&logo=playstation2)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 ## Social
 
