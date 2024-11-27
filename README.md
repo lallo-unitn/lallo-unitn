@@ -19,7 +19,7 @@ I'm a student enrolled in a Cybersecurity master course at [UniTN](https://www.u
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## Database
+## Databases
 
 ![MySQL](https://img.shields.io/badge/mariadb-%2300f.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Derby](https://img.shields.io/badge/APACHE-Derby-blue?style=for-the-badge&logo=apache)
