@@ -1,5 +1,5 @@
 ## Bio
-I'm a student enrolled in a Cybersecurity master course at [UniTN](https://www.unitn.it/en) and [UT](https://www.utwente.nl/en/).  
+I'm a student enrolled in a Cybersecurity Master's course at [UniTN](https://www.unitn.it/en) and [UT](https://www.utwente.nl/en/).  
 
 ## Contacts  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-gennaro/)
