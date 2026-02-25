@@ -1,5 +1,6 @@
 ## Bio
-I'm a student enrolled in a Cybersecurity Master's course at [UniTN](https://www.unitn.it/en) and [UT](https://www.utwente.nl/en/).  
+I graduated in Computer Science with a specialization in Cybersecurity at [UniTN](https://www.unitn.it/en) and [UT](https://www.utwente.nl/en/).
+I currently work as a CIO Advisory consultant for KPMG - Nolan Norton.
 
 ## Contacts  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-gennaro/)
@@ -30,8 +31,3 @@ I'm a student enrolled in a Cybersecurity Master's course at [UniTN](https://www
 ![Apache Tomcat](https://img.shields.io/badge/APACHE-Tomcat-red?style=for-the-badge&logo=apache)
 ![WildFly](https://img.shields.io/badge/Red%20Hat-WildFly-red?style=for-the-badge&logo=redHat)
 
-## Social
-
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
